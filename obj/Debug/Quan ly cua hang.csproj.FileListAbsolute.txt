@@ -1,0 +1,35 @@
+D:\WinForm\Quan ly cua hang\Quan ly cua hang\obj\Debug\Quan ly cua hang.csprojAssemblyReference.cache
+D:\WinForm\Quan ly cua hang\Quan ly cua hang\obj\Debug\Quan_ly_cua_hang.Properties.Resources.resources
+D:\WinForm\Quan ly cua hang\Quan ly cua hang\obj\Debug\Quan ly cua hang.csproj.GenerateResource.cache
+D:\WinForm\Quan ly cua hang\Quan ly cua hang\obj\Debug\Quan ly cua hang.csproj.CoreCompileInputs.cache
+D:\WinForm\Quan ly cua hang\Quan ly cua hang\obj\Debug\Quan_ly_cua_hang.GUI.frm_Login.resources
+D:\WinForm\Quan ly cua hang\Quan ly cua hang\bin\Debug\Quan ly cua hang.exe.config
+D:\WinForm\Quan ly cua hang\Quan ly cua hang\bin\Debug\Quan ly cua hang.exe
+D:\WinForm\Quan ly cua hang\Quan ly cua hang\bin\Debug\Quan ly cua hang.pdb
+D:\WinForm\Quan ly cua hang\Quan ly cua hang\obj\Debug\Quan ly cua hang.exe
+D:\WinForm\Quan ly cua hang\Quan ly cua hang\obj\Debug\Quan ly cua hang.pdb
+D:\WinForm\Quan ly cua hang\Quan ly cua hang\obj\Debug\Quan_ly_cua_hang.GUI.frm_KhachHang.resources
+D:\WinForm\Quan ly cua hang\Quan ly cua hang\obj\Debug\Quan_ly_cua_hang.GUI.frm_MainMenu.resources
+D:\WinForm\Quan ly cua hang\Quan ly cua hang\obj\Debug\Quan_ly_cua_hang.GUI.frm_NhapHang.resources
+D:\WinForm\Quan ly cua hang\Quan ly cua hang\obj\Debug\Quan_ly_cua_hang.GUI.frm_SanPham.resources
+D:\WinForm\Quan ly cua hang\Quan ly cua hang\obj\Debug\Quan_ly_cua_hang.GUI.frm_ThanhToanHDN.resources
+D:\WinForm\Quan ly cua hang\Quan ly cua hang\obj\Debug\Quan_ly_cua_hang.GUI.frm_BanHang.resources
+D:\WinForm\Quan ly cua hang\Quan ly cua hang\obj\Debug\Quan_ly_cua_hang.GUI.frm_ThanhToanHDB.resources
+D:\WinForm\Quan ly cua hang\Quan ly cua hang\obj\Debug\Quan_ly_cua_hang.GUI.frm_QuanLyNhanVien.resources
+C:\Users\TonDZ\Downloads\Quan ly cua hang thuốc\Quan ly cua hang\bin\Debug\Quan ly cua hang.exe.config
+C:\Users\TonDZ\Downloads\Quan ly cua hang thuốc\Quan ly cua hang\bin\Debug\Quan ly cua hang.exe
+C:\Users\TonDZ\Downloads\Quan ly cua hang thuốc\Quan ly cua hang\bin\Debug\Quan ly cua hang.pdb
+C:\Users\TonDZ\Downloads\Quan ly cua hang thuốc\Quan ly cua hang\obj\Debug\Quan ly cua hang.csproj.AssemblyReference.cache
+C:\Users\TonDZ\Downloads\Quan ly cua hang thuốc\Quan ly cua hang\obj\Debug\Quan ly cua hang.csproj.SuggestedBindingRedirects.cache
+C:\Users\TonDZ\Downloads\Quan ly cua hang thuốc\Quan ly cua hang\obj\Debug\Quan_ly_cua_hang.GUI.frm_BanHang.resources
+C:\Users\TonDZ\Downloads\Quan ly cua hang thuốc\Quan ly cua hang\obj\Debug\Quan_ly_cua_hang.GUI.frm_KhachHang.resources
+C:\Users\TonDZ\Downloads\Quan ly cua hang thuốc\Quan ly cua hang\obj\Debug\Quan_ly_cua_hang.GUI.frm_Login.resources
+C:\Users\TonDZ\Downloads\Quan ly cua hang thuốc\Quan ly cua hang\obj\Debug\Quan_ly_cua_hang.GUI.frm_MainMenu.resources
+C:\Users\TonDZ\Downloads\Quan ly cua hang thuốc\Quan ly cua hang\obj\Debug\Quan_ly_cua_hang.GUI.frm_QuanLyNhanVien.resources
+C:\Users\TonDZ\Downloads\Quan ly cua hang thuốc\Quan ly cua hang\obj\Debug\Quan_ly_cua_hang.GUI.frm_SanPham.resources
+C:\Users\TonDZ\Downloads\Quan ly cua hang thuốc\Quan ly cua hang\obj\Debug\Quan_ly_cua_hang.GUI.frm_ThanhToanHDB.resources
+C:\Users\TonDZ\Downloads\Quan ly cua hang thuốc\Quan ly cua hang\obj\Debug\Quan_ly_cua_hang.Properties.Resources.resources
+C:\Users\TonDZ\Downloads\Quan ly cua hang thuốc\Quan ly cua hang\obj\Debug\Quan ly cua hang.csproj.GenerateResource.cache
+C:\Users\TonDZ\Downloads\Quan ly cua hang thuốc\Quan ly cua hang\obj\Debug\Quan ly cua hang.csproj.CoreCompileInputs.cache
+C:\Users\TonDZ\Downloads\Quan ly cua hang thuốc\Quan ly cua hang\obj\Debug\Quan ly cua hang.exe
+C:\Users\TonDZ\Downloads\Quan ly cua hang thuốc\Quan ly cua hang\obj\Debug\Quan ly cua hang.pdb
